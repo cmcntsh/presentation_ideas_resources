@@ -6,3 +6,9 @@
 * What is Scaled Agile Framework (SAFe) and why should my organization be using it?
 * Sample stakeholder meeting: Evaluating informatics curricula.
 * You can publish educational content on the web RIGHT NOW FOR FREE! Why do so many data science education resources deliver content using this tool?
+
+## Questions
+
+* When would I start?
+* What kind of a contract would it be? (12 month or something different?)
+* How many hours per week do successful new faculty typically work?
