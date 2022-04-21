@@ -9,6 +9,22 @@
 
 ## Questions
 
+### Administration
+
 * When would I start?
 * What kind of a contract would it be? (12 month or something different?)
 * How many hours per week do successful new faculty typically work?
+* Salary?
+* Scholarship form? publications, posters, presentations - what is the expectation?
+* What resources are available? CTLE, evaluation metrics for classes
+* What are the biggest challenges your studens face? What resources are available to help overcome those challenges?
+* How much distance/in person?
+
+### Informatics program administration
+
+* What activities are involved in administering the program?
+* When do they occur?
+* What is current enrollment in the program and what are the enrollment goals for the future?
+* How are you evaluating the successfulness of the program?
+* What percentage of students complete the program?
+* How do you handle it when students struggle?
