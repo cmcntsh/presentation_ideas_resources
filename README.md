@@ -28,3 +28,48 @@
 * How are you evaluating the successfulness of the program?
 * What percentage of students complete the program?
 * How do you handle it when students struggle?
+
+Here are some questions I would be interested in getting answered by the time interviews are completed. Perhaps you or someone else could let me know who might be best to answer them so I can direct them to the correct groups/individuals.
+
+•	What would be an approximate start date? What kind of timeline does the college have in mind?
+•	I’ve heard of different contract lengths in academia. What type of contract would this be? (12 month or something different) What will be the months of the contract?
+•	What does the College of Nursing mean by an FTE? How many hours per week do successful new faculty typically work?
+•	Can you provide examples of activities which the College of Nursing counts under these categories? What are the expectations for career line faculty?
+o	Research
+o	Teaching
+o	Service
+•	Are career line faculty expected to get their own research funding? What is the expectation on sources and amounts?
+•	Besides preparing and teaching classes, are there any other activities which the College of Nursing counts under teaching?
+•	How much internal/external service is expected for career line faculty? What type of balance between internal and external service is expected for career line faculty?
+•	What is the scholarship expectation for career line faculty?
+o	What type(s) of publishing is expected?
+o	What type(s) of presentation is expected?
+o	Any other scholarship options/expectations?
+•	What resources are available for the following activities? Who are the contacts for arranging assistance?
+o	Setting up courses in Canvas
+o	Designing learning activities/resources for students
+o	Designing and conducting evaluation activities (quizzes, tests, etc)
+•	What are some of the biggest challenges for students? What student resources are available in these areas?
+o	Writing help.
+o	Testing services.
+o	Career guidance.
+o	Job hunting.
+o	General counseling.
+o	Health services.
+o	Mental health services.
+•	Is there any formal mechanism for keeping in touch with alumni?
+•	What percentage of students complete the program?
+•	How do you evaluate the successfulness of the program?
+•	How many students does the program typically admit? Will those numbers remain about the same, or will there be changes in future enrollment expectations?
+•	What do you see as the future of this program?
+•	How do you see nursing informatics fitting in with other healthcare informatics?
+•	What are the in-person/distance expectations for faculty?
+•	What are the in-person/distance expectation for students in the informatics program?
+•	What mix of students take informatics classes? (% masters, % PhD, % nursing, % from other programs)
+•	Which informatics classes are cross  listed with BMI? Are any other courses cross listed with other departments/programs? What type of coordination is required in these courses? How well do those cooperative agreements work?
+•	What activities are involved in administering the informatics program? When do they typically occur? Who currently handles those activities? How long do they typically take? Which of these activities have a set time requirement regardless of how many students are enrolled in the program and which take longer when more students are enrolled?
+•	What might my first year look like?
+o	Which classes might I be asked to teach?
+o	What committees might I be asked to serve on?
+o	How will I learn how to administer the program?
+o	Who will I be reporting to? What form(s) does that reporting take?
