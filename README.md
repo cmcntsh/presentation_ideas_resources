@@ -73,3 +73,6 @@ o	Which classes might I be asked to teach?
 o	What committees might I be asked to serve on?
 o	How will I learn how to administer the program?
 o	Who will I be reporting to? What form(s) does that reporting take?
+
+* What retirement resources are available? What is the vesting period? What are the contribution matching amounts?
+* Ask Cameron what I should be asking.
